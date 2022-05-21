@@ -1,0 +1,52 @@
+.b-submit{
+    margin-left: 550px;
+    
+}
+.btn-dark{
+    margin-top: -32px;
+}
+.btn-primary{
+    margin-top: -32px;
+
+}
+.stack .form-select{
+    background-color: gray;
+    z-index: -1;
+}
+.opt{
+    background-color: white;
+    width: 20px;
+}
+.fa-times{
+    font-size: 12px;
+    margin-left: 342px;
+    color: gray;
+}
+
+.two-button{
+    height: 50px;
+}
+.btn-dark{
+    margin: 5px 7px 0 0;
+}
+.btn-primary{
+    margin-top: 5px;
+    width: 100px;
+}
+.bt-submit{
+    margin-left: 260px;
+
+}
+.form-two{
+    height:400px;
+    width: 500px;
+    margin-left: 170px;
+}
+.bt-submit  .btn-primary{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.times-two  .fa-times{
+    margin-left: 160px;
+}
+

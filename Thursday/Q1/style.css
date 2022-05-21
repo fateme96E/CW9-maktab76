@@ -1,0 +1,150 @@
+body {
+
+    overflow-x: hidden;
+}
+.navbar{
+    background-color: #e3f3fd;
+}
+.profile{
+    background-color: #b6f0f0;
+    height: 270px;
+}
+.pro-img{
+    background-color: rgb(186,200,211);
+    width: 270px;
+    height: 270px;
+    margin-left: 79px;
+    margin-top: 25px;
+    position: absolute;
+}
+.Text{
+    flex: 1 0 0%;
+    margin-left: 409px;
+    margin-top: 39px;
+}
+.col {
+    flex: 1 0 0%;
+    margin-top: 0;
+}
+.pro-text{
+    padding-top: 90px;
+}
+.pro-img p{
+    margin: 120px 60px;
+}
+.about-you{
+    height: 190px;
+
+}
+.about{
+    margin-left: 40px;
+    margin-top: 80px;
+}
+.your-skills{
+    height: 320px;
+
+}
+/* .row .col{
+    margin-top: 20px;
+} */
+.col > .row{
+    margin-top: 20px;
+}
+.pro{
+    margin-top: 0;
+}
+.mx-5 {
+    margin-right: 10rem !important;
+    margin-left: -7rem !important;
+}
+.mt-2 {
+    margin-top: 0.5rem!important;
+    padding-left: 156px;
+}
+.mar-pro{
+    margin-top: 10px;
+}
+.your-skills h5 {
+    margin: 20px 40px;
+}
+.mar-pro span{
+    font-size: 20px;
+}
+.your-proects{
+    height: 572px;
+    margin-left: -12px;
+}
+.your-proects .Proects{
+    margin-left: 152px;
+}
+.more{
+    margin: 50px 563px;
+}
+.h1-Proects{
+    margin: 20px 48px;
+}
+.card-img-top{
+    width: 12rem;
+    height: 9rem;
+    background-color: rgb(94, 99, 99);
+}
+.connect{
+    height: 122px;
+    margin-left: 652px;
+    margin-top: 87px;
+}
+
+.last-row{
+    height: 190px;
+    background-color: #b6f0f0;
+}
+.footer{
+    margin: 0px 30px;
+    padding-top: 20px;
+}
+
+.mx-5{
+    margin-left: 20px;
+}
+.network{
+    width: 1.5rem;
+    height: 1.5rem;
+    margin: 0 -0.75rem;
+    text-decoration: none;
+    color: #000;
+}
+.fa-telegram{
+    font-size: 1.55rem;
+    
+}
+.rounded-circle i{
+    margin-left: 10px;
+ 
+}
+.fa-github{
+    color: #000;
+    font-size: 1.65rem;
+}
+.network a{
+    text-decoration: none;
+}
+.fa-linkedin{
+    padding: 3px;
+    background-color:  rgb(74 100 255);
+    color: white;
+    font-size: 1.20rem;
+}
+.fa-instagram{
+    font-size: 1.65rem;
+}
+
+.img-cap {
+    margin-top: -80px;
+    color: white;
+    margin-left: 100px;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+    margin-top: 30px;
+}
